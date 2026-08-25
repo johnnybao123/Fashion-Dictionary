@@ -1,0 +1,110 @@
+{
+  "PT-037": {
+    "source_file": "/home/ubuntu/work/workbook-inspect-3/embedded/image_01.jpg",
+    "local_path": "assets/recovered/workbook-v3-PT-037.jpg",
+    "bytes": 2142076,
+    "duplicates": 2
+  },
+  "PT-051": {
+    "source_file": "/home/ubuntu/work/workbook-inspect-3/embedded/image_03.jpg",
+    "local_path": "assets/recovered/workbook-v3-PT-051.jpg",
+    "bytes": 1814104,
+    "duplicates": 2
+  },
+  "PT-053": {
+    "source_file": "/home/ubuntu/work/workbook-inspect-3/embedded/image_05.jpg",
+    "local_path": "assets/recovered/workbook-v3-PT-053.jpg",
+    "bytes": 4501870,
+    "duplicates": 2
+  },
+  "PT-064": {
+    "source_file": "/home/ubuntu/work/workbook-inspect-3/embedded/image_07.jpg",
+    "local_path": "assets/recovered/workbook-v3-PT-064.jpg",
+    "bytes": 1914710,
+    "duplicates": 2
+  },
+  "PT-069": {
+    "source_file": "/home/ubuntu/work/workbook-inspect-3/embedded/image_09.jpg",
+    "local_path": "assets/recovered/workbook-v3-PT-069.jpg",
+    "bytes": 1862564,
+    "duplicates": 2
+  },
+  "PT-073": {
+    "source_file": "/home/ubuntu/work/workbook-inspect-3/embedded/image_11.jpg",
+    "local_path": "assets/recovered/workbook-v3-PT-073.jpg",
+    "bytes": 1938942,
+    "duplicates": 2
+  },
+  "PT-075": {
+    "source_file": "/home/ubuntu/work/workbook-inspect-3/embedded/image_13.jpg",
+    "local_path": "assets/recovered/workbook-v3-PT-075.jpg",
+    "bytes": 1569506,
+    "duplicates": 1
+  },
+  "PT-078": {
+    "source_file": "/home/ubuntu/work/workbook-inspect-3/embedded/image_14.png",
+    "local_path": "assets/recovered/workbook-v3-PT-078.png",
+    "bytes": 18991,
+    "duplicates": 1
+  },
+  "PT-080": {
+    "source_file": "/home/ubuntu/work/workbook-inspect-3/embedded/image_15.jpg",
+    "local_path": "assets/recovered/workbook-v3-PT-080.jpg",
+    "bytes": 3312256,
+    "duplicates": 1
+  },
+  "PT-085": {
+    "source_file": "/home/ubuntu/work/workbook-inspect-3/embedded/image_16.jpg",
+    "local_path": "assets/recovered/workbook-v3-PT-085.jpg",
+    "bytes": 2947262,
+    "duplicates": 1
+  },
+  "PT-127": {
+    "source_file": "/home/ubuntu/work/workbook-inspect-3/embedded/image_17.jpg",
+    "local_path": "assets/recovered/workbook-v3-PT-127.jpg",
+    "bytes": 3469255,
+    "duplicates": 1
+  },
+  "PT-134": {
+    "source_file": "/home/ubuntu/work/workbook-inspect-3/embedded/image_18.jpg",
+    "local_path": "assets/recovered/workbook-v3-PT-134.jpg",
+    "bytes": 1168462,
+    "duplicates": 1
+  },
+  "PT-142": {
+    "source_file": "/home/ubuntu/work/workbook-inspect-3/embedded/image_19.jpg",
+    "local_path": "assets/recovered/workbook-v3-PT-142.jpg",
+    "bytes": 2525333,
+    "duplicates": 1
+  },
+  "PT-179": {
+    "source_file": "/home/ubuntu/work/workbook-inspect-3/embedded/image_20.jpg",
+    "local_path": "assets/recovered/workbook-v3-PT-179.jpg",
+    "bytes": 7260504,
+    "duplicates": 1
+  },
+  "PT-228": {
+    "source_file": "/home/ubuntu/work/workbook-inspect-3/embedded/image_21.jpg",
+    "local_path": "assets/recovered/workbook-v3-PT-228.jpg",
+    "bytes": 1899149,
+    "duplicates": 1
+  },
+  "PT-229": {
+    "source_file": "/home/ubuntu/work/workbook-inspect-3/embedded/image_22.jpg",
+    "local_path": "assets/recovered/workbook-v3-PT-229.jpg",
+    "bytes": 708847,
+    "duplicates": 1
+  },
+  "PT-233": {
+    "source_file": "/home/ubuntu/work/workbook-inspect-3/embedded/image_23.jpg",
+    "local_path": "assets/recovered/workbook-v3-PT-233.jpg",
+    "bytes": 2725958,
+    "duplicates": 1
+  },
+  "PT-289": {
+    "source_file": "/home/ubuntu/work/workbook-inspect-3/embedded/image_24.jpg",
+    "local_path": "assets/recovered/workbook-v3-PT-289.jpg",
+    "bytes": 1892468,
+    "duplicates": 1
+  }
+}

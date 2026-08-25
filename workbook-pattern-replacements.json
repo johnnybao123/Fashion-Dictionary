@@ -1,0 +1,522 @@
+{
+  "PAT-001": {
+    "source": "/home/ubuntu/work/workbook-inspect/pattern-images/PAT-001.jpg",
+    "local": "assets/recovered/workbook-PAT-001.jpg",
+    "bytes": 2047090,
+    "size": [
+      2848,
+      4288
+    ],
+    "label": "Pinstripe pattern textile"
+  },
+  "PAT-002": {
+    "source": "/home/ubuntu/work/workbook-inspect/pattern-images/PAT-002.png",
+    "local": "assets/recovered/workbook-PAT-002.png",
+    "bytes": 39350,
+    "size": [
+      112,
+      150
+    ],
+    "label": "Bengal stripe pattern textile"
+  },
+  "PAT-003": {
+    "source": "/home/ubuntu/work/workbook-inspect/pattern-images/PAT-003.png",
+    "local": "assets/recovered/workbook-PAT-003.png",
+    "bytes": 32290,
+    "size": [
+      139,
+      139
+    ],
+    "label": "Awning / cabana stripe pattern textile"
+  },
+  "PAT-004": {
+    "source": "/home/ubuntu/work/workbook-inspect/pattern-images/PAT-004.png",
+    "local": "assets/recovered/workbook-PAT-004.png",
+    "bytes": 41653,
+    "size": [
+      112,
+      150
+    ],
+    "label": "Breton stripe pattern textile"
+  },
+  "PAT-005": {
+    "source": "/home/ubuntu/work/workbook-inspect/pattern-images/PAT-005.jpg",
+    "local": "assets/recovered/workbook-PAT-005.jpg",
+    "bytes": 2561727,
+    "size": [
+      4000,
+      2667
+    ],
+    "label": "Candy stripe pattern textile"
+  },
+  "PAT-006": {
+    "source": "/home/ubuntu/work/workbook-inspect/pattern-images/PAT-006.png",
+    "local": "assets/recovered/workbook-PAT-006.png",
+    "bytes": 36776,
+    "size": [
+      139,
+      139
+    ],
+    "label": "Pencil stripe pattern textile"
+  },
+  "PAT-007": {
+    "source": "/home/ubuntu/work/workbook-inspect/pattern-images/PAT-007.jpg",
+    "local": "assets/recovered/workbook-PAT-007.jpg",
+    "bytes": 2208321,
+    "size": [
+      2848,
+      4272
+    ],
+    "label": "Vertical / horizontal stripe pattern textile"
+  },
+  "PAT-008": {
+    "source": "/home/ubuntu/work/workbook-inspect/pattern-images/PAT-008.jpg",
+    "local": "assets/recovered/workbook-PAT-008.jpg",
+    "bytes": 4663014,
+    "size": [
+      5184,
+      3456
+    ],
+    "label": "Gingham pattern textile"
+  },
+  "PAT-009": {
+    "source": "/home/ubuntu/work/workbook-inspect/pattern-images/PAT-009.png",
+    "local": "assets/recovered/workbook-PAT-009.png",
+    "bytes": 32310,
+    "size": [
+      139,
+      139
+    ],
+    "label": "Buffalo check pattern textile"
+  },
+  "PAT-010": {
+    "source": "/home/ubuntu/work/workbook-inspect/pattern-images/PAT-010.jpg",
+    "local": "assets/recovered/workbook-PAT-010.jpg",
+    "bytes": 5727631,
+    "size": [
+      3678,
+      5517
+    ],
+    "label": "Tartan / plaid pattern textile"
+  },
+  "PAT-011": {
+    "source": "/home/ubuntu/work/workbook-inspect/pattern-images/PAT-011.png",
+    "local": "assets/recovered/workbook-PAT-011.png",
+    "bytes": 27262,
+    "size": [
+      139,
+      93
+    ],
+    "label": "Windowpane pattern textile"
+  },
+  "PAT-012": {
+    "source": "/home/ubuntu/work/workbook-inspect/pattern-images/PAT-012.png",
+    "local": "assets/recovered/workbook-PAT-012.png",
+    "bytes": 31261,
+    "size": [
+      139,
+      84
+    ],
+    "label": "Tattersall pattern textile"
+  },
+  "PAT-013": {
+    "source": "/home/ubuntu/work/workbook-inspect/pattern-images/PAT-013.jpg",
+    "local": "assets/recovered/workbook-PAT-013.jpg",
+    "bytes": 4026259,
+    "size": [
+      5472,
+      3648
+    ],
+    "label": "Houndstooth pattern textile"
+  },
+  "PAT-014": {
+    "source": "/home/ubuntu/work/workbook-inspect/pattern-images/PAT-014.png",
+    "local": "assets/recovered/workbook-PAT-014.png",
+    "bytes": 56265,
+    "size": [
+      139,
+      136
+    ],
+    "label": "Glen / Prince of Wales check pattern textile"
+  },
+  "PAT-015": {
+    "source": "/home/ubuntu/work/workbook-inspect/pattern-images/PAT-015.jpg",
+    "local": "assets/recovered/workbook-PAT-015.jpg",
+    "bytes": 4098395,
+    "size": [
+      4608,
+      3456
+    ],
+    "label": "Madras pattern textile"
+  },
+  "PAT-016": {
+    "source": "/home/ubuntu/work/workbook-inspect/pattern-images/PAT-016.jpg",
+    "local": "assets/recovered/workbook-PAT-016.jpg",
+    "bytes": 4156854,
+    "size": [
+      5568,
+      3712
+    ],
+    "label": "Polka dot pattern textile"
+  },
+  "PAT-017": {
+    "source": "/home/ubuntu/work/workbook-inspect/pattern-images/PAT-017.png",
+    "local": "assets/recovered/workbook-PAT-017.png",
+    "bytes": 43429,
+    "size": [
+      139,
+      139
+    ],
+    "label": "Chevron pattern textile"
+  },
+  "PAT-018": {
+    "source": "/home/ubuntu/work/workbook-inspect/pattern-images/PAT-018.png",
+    "local": "assets/recovered/workbook-PAT-018.png",
+    "bytes": 57129,
+    "size": [
+      139,
+      139
+    ],
+    "label": "Herringbone pattern textile"
+  },
+  "PAT-019": {
+    "source": "/home/ubuntu/work/workbook-inspect/pattern-images/PAT-019.jpg",
+    "local": "assets/recovered/workbook-PAT-019.jpg",
+    "bytes": 3981878,
+    "size": [
+      4315,
+      6473
+    ],
+    "label": "Argyle pattern textile"
+  },
+  "PAT-020": {
+    "source": "/home/ubuntu/work/workbook-inspect/pattern-images/PAT-020.jpg",
+    "local": "assets/recovered/workbook-PAT-020.jpg",
+    "bytes": 7742880,
+    "size": [
+      4000,
+      6000
+    ],
+    "label": "Diamond pattern textile"
+  },
+  "PAT-021": {
+    "source": "/home/ubuntu/work/workbook-inspect/pattern-images/PAT-021.jpg",
+    "local": "assets/recovered/workbook-PAT-021.jpg",
+    "bytes": 3548046,
+    "size": [
+      5765,
+      3743
+    ],
+    "label": "Geometric abstract pattern textile"
+  },
+  "PAT-022": {
+    "source": "/home/ubuntu/work/workbook-inspect/pattern-images/PAT-022.jpg",
+    "local": "assets/recovered/workbook-PAT-022.jpg",
+    "bytes": 1902094,
+    "size": [
+      5472,
+      3648
+    ],
+    "label": "Op-art / optical pattern textile"
+  },
+  "PAT-023": {
+    "source": "/home/ubuntu/work/workbook-inspect/pattern-images/PAT-023.jpg",
+    "local": "assets/recovered/workbook-PAT-023.jpg",
+    "bytes": 900342,
+    "size": [
+      3024,
+      4032
+    ],
+    "label": "Ditsy floral pattern textile"
+  },
+  "PAT-024": {
+    "source": "/home/ubuntu/work/workbook-inspect/pattern-images/PAT-024.png",
+    "local": "assets/recovered/workbook-PAT-024.png",
+    "bytes": 48304,
+    "size": [
+      139,
+      139
+    ],
+    "label": "Liberty floral pattern textile"
+  },
+  "PAT-025": {
+    "source": "/home/ubuntu/work/workbook-inspect/pattern-images/PAT-025.jpg",
+    "local": "assets/recovered/workbook-PAT-025.jpg",
+    "bytes": 7302661,
+    "size": [
+      4667,
+      7000
+    ],
+    "label": "Tropical / palm pattern textile"
+  },
+  "PAT-026": {
+    "source": "/home/ubuntu/work/workbook-inspect/pattern-images/PAT-026.png",
+    "local": "assets/recovered/workbook-PAT-026.png",
+    "bytes": 55503,
+    "size": [
+      139,
+      139
+    ],
+    "label": "Botanical pattern textile"
+  },
+  "PAT-027": {
+    "source": "/home/ubuntu/work/workbook-inspect/pattern-images/PAT-027.png",
+    "local": "assets/recovered/workbook-PAT-027.png",
+    "bytes": 60501,
+    "size": [
+      139,
+      139
+    ],
+    "label": "Chinoiserie pattern textile"
+  },
+  "PAT-028": {
+    "source": "/home/ubuntu/work/workbook-inspect/pattern-images/PAT-028.jpg",
+    "local": "assets/recovered/workbook-PAT-028.jpg",
+    "bytes": 7102543,
+    "size": [
+      5184,
+      3456
+    ],
+    "label": "Watercolor floral pattern textile"
+  },
+  "PAT-029": {
+    "source": "/home/ubuntu/work/workbook-inspect/pattern-images/PAT-029.jpg",
+    "local": "assets/recovered/workbook-PAT-029.jpg",
+    "bytes": 3255638,
+    "size": [
+      5472,
+      3648
+    ],
+    "label": "Rose / peony print pattern textile"
+  },
+  "PAT-030": {
+    "source": "/home/ubuntu/work/workbook-inspect/pattern-images/PAT-030.jpg",
+    "local": "assets/recovered/workbook-PAT-030.jpg",
+    "bytes": 1960685,
+    "size": [
+      3746,
+      2516
+    ],
+    "label": "Leopard pattern textile"
+  },
+  "PAT-031": {
+    "source": "/home/ubuntu/work/workbook-inspect/pattern-images/PAT-031.jpg",
+    "local": "assets/recovered/workbook-PAT-031.jpg",
+    "bytes": 3246208,
+    "size": [
+      5184,
+      3456
+    ],
+    "label": "Cheetah pattern textile"
+  },
+  "PAT-032": {
+    "source": "/home/ubuntu/work/workbook-inspect/pattern-images/PAT-032.jpg",
+    "local": "assets/recovered/workbook-PAT-032.jpg",
+    "bytes": 4478064,
+    "size": [
+      5184,
+      3456
+    ],
+    "label": "Zebra pattern textile"
+  },
+  "PAT-033": {
+    "source": "/home/ubuntu/work/workbook-inspect/pattern-images/PAT-033.png",
+    "local": "assets/recovered/workbook-PAT-033.png",
+    "bytes": 40252214,
+    "size": [
+      6016,
+      4014
+    ],
+    "label": "Snake / python pattern textile"
+  },
+  "PAT-034": {
+    "source": "/home/ubuntu/work/workbook-inspect/pattern-images/PAT-034.jpg",
+    "local": "assets/recovered/workbook-PAT-034.jpg",
+    "bytes": 1638739,
+    "size": [
+      3268,
+      4000
+    ],
+    "label": "Tiger pattern textile"
+  },
+  "PAT-035": {
+    "source": "/home/ubuntu/work/workbook-inspect/pattern-images/PAT-035.jpg",
+    "local": "assets/recovered/workbook-PAT-035.jpg",
+    "bytes": 2674822,
+    "size": [
+      6048,
+      4024
+    ],
+    "label": "Cow print pattern textile"
+  },
+  "PAT-036": {
+    "source": "/home/ubuntu/work/workbook-inspect/pattern-images/PAT-036.jpg",
+    "local": "assets/recovered/workbook-PAT-036.jpg",
+    "bytes": 4906966,
+    "size": [
+      5472,
+      3648
+    ],
+    "label": "Giraffe pattern textile"
+  },
+  "PAT-037": {
+    "source": "/home/ubuntu/work/workbook-inspect/pattern-images/PAT-037.jpg",
+    "local": "assets/recovered/workbook-PAT-037.jpg",
+    "bytes": 3590432,
+    "size": [
+      4000,
+      6000
+    ],
+    "label": "Paisley pattern textile"
+  },
+  "PAT-038": {
+    "source": "/home/ubuntu/work/workbook-inspect/pattern-images/PAT-038.png",
+    "local": "assets/recovered/workbook-PAT-038.png",
+    "bytes": 53279,
+    "size": [
+      139,
+      139
+    ],
+    "label": "Ikat pattern textile"
+  },
+  "PAT-039": {
+    "source": "/home/ubuntu/work/workbook-inspect/pattern-images/PAT-039.jpg",
+    "local": "assets/recovered/workbook-PAT-039.jpg",
+    "bytes": 1425299,
+    "size": [
+      3000,
+      2000
+    ],
+    "label": "Batik pattern textile"
+  },
+  "PAT-040": {
+    "source": "/home/ubuntu/work/workbook-inspect/pattern-images/PAT-040.jpg",
+    "local": "assets/recovered/workbook-PAT-040.jpg",
+    "bytes": 3278171,
+    "size": [
+      3024,
+      4032
+    ],
+    "label": "Tie-dye pattern textile"
+  },
+  "PAT-041": {
+    "source": "/home/ubuntu/work/workbook-inspect/pattern-images/PAT-041.jpg",
+    "local": "assets/recovered/workbook-PAT-041.jpg",
+    "bytes": 1669546,
+    "size": [
+      3392,
+      5088
+    ],
+    "label": "Shibori pattern textile"
+  },
+  "PAT-042": {
+    "source": "/home/ubuntu/work/workbook-inspect/pattern-images/PAT-042.jpg",
+    "local": "assets/recovered/workbook-PAT-042.jpg",
+    "bytes": 3946883,
+    "size": [
+      7360,
+      4912
+    ],
+    "label": "Toile de Jouy pattern textile"
+  },
+  "PAT-043": {
+    "source": "/home/ubuntu/work/workbook-inspect/pattern-images/PAT-043.jpg",
+    "local": "assets/recovered/workbook-PAT-043.jpg",
+    "bytes": 4513906,
+    "size": [
+      5712,
+      4284
+    ],
+    "label": "Aztec / Southwestern pattern textile"
+  },
+  "PAT-044": {
+    "source": "/home/ubuntu/work/workbook-inspect/pattern-images/PAT-044.jpg",
+    "local": "assets/recovered/workbook-PAT-044.jpg",
+    "bytes": 1238780,
+    "size": [
+      2856,
+      4272
+    ],
+    "label": "Bandana / paisley scarf print pattern textile"
+  },
+  "PAT-045": {
+    "source": "/home/ubuntu/work/workbook-inspect/pattern-images/PAT-045.png",
+    "local": "assets/recovered/workbook-PAT-045.png",
+    "bytes": 51566,
+    "size": [
+      139,
+      139
+    ],
+    "label": "Camo pattern textile"
+  },
+  "PAT-046": {
+    "source": "/home/ubuntu/work/workbook-inspect/pattern-images/PAT-046.jpg",
+    "local": "assets/recovered/workbook-PAT-046.jpg",
+    "bytes": 2991779,
+    "size": [
+      3072,
+      4608
+    ],
+    "label": "Color block pattern textile"
+  },
+  "PAT-047": {
+    "source": "/home/ubuntu/work/workbook-inspect/pattern-images/PAT-047.jpg",
+    "local": "assets/recovered/workbook-PAT-047.jpg",
+    "bytes": 6316990,
+    "size": [
+      3648,
+      5472
+    ],
+    "label": "Ombré / gradient pattern textile"
+  },
+  "PAT-048": {
+    "source": "/home/ubuntu/work/workbook-inspect/pattern-images/PAT-048.jpg",
+    "local": "assets/recovered/workbook-PAT-048.jpg",
+    "bytes": 3873651,
+    "size": [
+      5760,
+      3840
+    ],
+    "label": "Marble / swirl pattern textile"
+  },
+  "PAT-049": {
+    "source": "/home/ubuntu/work/workbook-inspect/pattern-images/PAT-049.png",
+    "local": "assets/recovered/workbook-PAT-049.png",
+    "bytes": 47096,
+    "size": [
+      139,
+      122
+    ],
+    "label": "Logo / monogram pattern textile"
+  },
+  "PAT-050": {
+    "source": "/home/ubuntu/work/workbook-inspect/pattern-images/PAT-050.jpg",
+    "local": "assets/recovered/workbook-PAT-050.jpg",
+    "bytes": 12042887,
+    "size": [
+      6000,
+      4000
+    ],
+    "label": "Abstract / painterly pattern textile"
+  },
+  "PAT-051": {
+    "source": "/home/ubuntu/work/workbook-inspect/pattern-images/PAT-051.png",
+    "local": "assets/recovered/workbook-PAT-051.png",
+    "bytes": 45190,
+    "size": [
+      139,
+      139
+    ],
+    "label": "Conversational / novelty pattern textile"
+  },
+  "PAT-052": {
+    "source": "/home/ubuntu/work/workbook-inspect/pattern-images/PAT-052.png",
+    "local": "assets/recovered/workbook-PAT-052.png",
+    "bytes": 27226,
+    "size": [
+      139,
+      139
+    ],
+    "label": "Heathered / melange pattern textile"
+  }
+}
