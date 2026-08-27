@@ -1,0 +1,65 @@
+[
+  {
+    "id": "\"apparel-outerwear\"",
+    "label": "Tailored outerwear",
+    "imageUrl": "https://fabricref-qtdpjdf8.manus.space/manus-storage/apparel-outerwear_ced0cf95.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:VAN_JACKET_shirt_jacket.JPG",
+    "localFile": "./assets/recovered/exemplars/apparel-outerwear.jpg"
+  },
+  {
+    "id": "\"apparel-bottoms\"",
+    "label": "Cargo trousers",
+    "imageUrl": "https://fabricref-qtdpjdf8.manus.space/manus-storage/apparel-bottoms_a25029d8.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cargo_pants_001.jpg",
+    "localFile": "./assets/recovered/exemplars/apparel-bottoms.jpg"
+  },
+  {
+    "id": "\"footwear\"",
+    "label": "Athletic footwear",
+    "imageUrl": "https://fabricref-qtdpjdf8.manus.space/manus-storage/footwear_cec2e2ed.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Avia_Shoes.jpg",
+    "localFile": "./assets/recovered/exemplars/footwear.jpg"
+  },
+  {
+    "id": "\"bags\"",
+    "label": "Backpack in use",
+    "imageUrl": "https://fabricref-qtdpjdf8.manus.space/manus-storage/bags_27f0894c.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pack_A_Bag_(Unsplash).jpg",
+    "localFile": "./assets/recovered/exemplars/bags.jpg"
+  },
+  {
+    "id": "\"accessories\"",
+    "label": "Costume jewelry",
+    "imageUrl": "https://fabricref-qtdpjdf8.manus.space/manus-storage/accessories_737c8cca.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Costume_jewelry_Materials.jpg",
+    "localFile": "./assets/recovered/exemplars/accessories.jpg"
+  },
+  {
+    "id": "\"neckline-collar\"",
+    "label": "Collar construction",
+    "imageUrl": "https://fabricref-qtdpjdf8.manus.space/manus-storage/neckline-collar_d3eff5c8.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Collar_(clothing).jpg",
+    "localFile": "./assets/recovered/exemplars/neckline-collar.jpg"
+  },
+  {
+    "id": "\"sleeves\"",
+    "label": "Short sleeve",
+    "imageUrl": "https://fabricref-qtdpjdf8.manus.space/manus-storage/sleeves_43cf0801.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Short_sleeve.jpg",
+    "localFile": "./assets/recovered/exemplars/sleeves.jpg"
+  },
+  {
+    "id": "\"rise-silhouette\"",
+    "label": "Trouser silhouette",
+    "imageUrl": "https://fabricref-qtdpjdf8.manus.space/manus-storage/rise-silhouette_0cc55b30.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Trousers_(drawing).jpg",
+    "localFile": "./assets/recovered/exemplars/rise-silhouette.jpg"
+  },
+  {
+    "id": "\"length-hems\"",
+    "label": "Hemline spectrum",
+    "imageUrl": "https://fabricref-qtdpjdf8.manus.space/manus-storage/length-hems_3159c1be.png",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hemline_(skirt_height)_overview_chart_1805-2005.svg",
+    "localFile": "./assets/recovered/exemplars/length-hems.svg"
+  }
+]
