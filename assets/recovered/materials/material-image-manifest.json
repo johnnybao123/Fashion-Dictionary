@@ -1,0 +1,668 @@
+[
+  {
+    "material_id": 1,
+    "name": "Cotton (Plain Weave)",
+    "page": 8,
+    "source_image": "fabric-000.jpg",
+    "extracted_file": "material-001-cotton-plain-weave.jpg",
+    "width": 544,
+    "height": 816
+  },
+  {
+    "material_id": 2,
+    "name": "Linen",
+    "page": 8,
+    "source_image": "fabric-001.jpg",
+    "extracted_file": "material-002-linen.jpg",
+    "width": 544,
+    "height": 816
+  },
+  {
+    "material_id": 3,
+    "name": "Denim",
+    "page": 9,
+    "source_image": "fabric-002.jpg",
+    "extracted_file": "material-003-denim.jpg",
+    "width": 544,
+    "height": 816
+  },
+  {
+    "material_id": 4,
+    "name": "Canvas / Duck Cloth",
+    "page": 9,
+    "source_image": "fabric-003.jpg",
+    "extracted_file": "material-004-canvas-duck-cloth.jpg",
+    "width": 544,
+    "height": 816
+  },
+  {
+    "material_id": 5,
+    "name": "Twill (Cotton)",
+    "page": 10,
+    "source_image": "fabric-004.jpg",
+    "extracted_file": "material-005-twill-cotton.jpg",
+    "width": 544,
+    "height": 816
+  },
+  {
+    "material_id": 6,
+    "name": "Flannel",
+    "page": 10,
+    "source_image": "fabric-005.jpg",
+    "extracted_file": "material-006-flannel.jpg",
+    "width": 544,
+    "height": 816
+  },
+  {
+    "material_id": 7,
+    "name": "Poplin",
+    "page": 11,
+    "source_image": "fabric-006.jpg",
+    "extracted_file": "material-007-poplin.jpg",
+    "width": 544,
+    "height": 816
+  },
+  {
+    "material_id": 8,
+    "name": "Chambray",
+    "page": 11,
+    "source_image": "fabric-007.jpg",
+    "extracted_file": "material-008-chambray.jpg",
+    "width": 544,
+    "height": 816
+  },
+  {
+    "material_id": 9,
+    "name": "Jersey Knit",
+    "page": 12,
+    "source_image": "fabric-008.jpg",
+    "extracted_file": "material-009-jersey-knit.jpg",
+    "width": 544,
+    "height": 816
+  },
+  {
+    "material_id": 10,
+    "name": "French Terry",
+    "page": 12,
+    "source_image": "fabric-009.jpg",
+    "extracted_file": "material-010-french-terry.jpg",
+    "width": 544,
+    "height": 816
+  },
+  {
+    "material_id": 11,
+    "name": "Rib Knit",
+    "page": 13,
+    "source_image": "fabric-010.jpg",
+    "extracted_file": "material-011-rib-knit.jpg",
+    "width": 544,
+    "height": 816
+  },
+  {
+    "material_id": 12,
+    "name": "Interlock Knit",
+    "page": 13,
+    "source_image": "fabric-011.jpg",
+    "extracted_file": "material-012-interlock-knit.jpg",
+    "width": 544,
+    "height": 816
+  },
+  {
+    "material_id": 13,
+    "name": "Silk Charmeuse",
+    "page": 14,
+    "source_image": "fabric-012.jpg",
+    "extracted_file": "material-013-silk-charmeuse.jpg",
+    "width": 544,
+    "height": 816
+  },
+  {
+    "material_id": 14,
+    "name": "Wool (Worsted)",
+    "page": 14,
+    "source_image": "fabric-013.jpg",
+    "extracted_file": "material-014-wool-worsted.jpg",
+    "width": 544,
+    "height": 816
+  },
+  {
+    "material_id": 15,
+    "name": "Tweed",
+    "page": 15,
+    "source_image": "fabric-014.jpg",
+    "extracted_file": "material-015-tweed.jpg",
+    "width": 544,
+    "height": 816
+  },
+  {
+    "material_id": 16,
+    "name": "Cashmere",
+    "page": 15,
+    "source_image": "fabric-015.jpg",
+    "extracted_file": "material-016-cashmere.jpg",
+    "width": 544,
+    "height": 816
+  },
+  {
+    "material_id": 17,
+    "name": "Wool Felt",
+    "page": 16,
+    "source_image": "fabric-016.jpg",
+    "extracted_file": "material-017-wool-felt.jpg",
+    "width": 544,
+    "height": 816
+  },
+  {
+    "material_id": 18,
+    "name": "Bouclé",
+    "page": 16,
+    "source_image": "fabric-017.jpg",
+    "extracted_file": "material-018-boucl.jpg",
+    "width": 544,
+    "height": 816
+  },
+  {
+    "material_id": 19,
+    "name": "Polyester (woven)",
+    "page": 17,
+    "source_image": "fabric-018.jpg",
+    "extracted_file": "material-019-polyester-woven.jpg",
+    "width": 544,
+    "height": 816
+  },
+  {
+    "material_id": 20,
+    "name": "Nylon (woven)",
+    "page": 17,
+    "source_image": "fabric-019.jpg",
+    "extracted_file": "material-020-nylon-woven.jpg",
+    "width": 544,
+    "height": 816
+  },
+  {
+    "material_id": 21,
+    "name": "Spandex / Elastane",
+    "page": 18,
+    "source_image": "fabric-020.jpg",
+    "extracted_file": "material-021-spandex-elastane.jpg",
+    "width": 544,
+    "height": 816
+  },
+  {
+    "material_id": 22,
+    "name": "Polar Fleece",
+    "page": 18,
+    "source_image": "fabric-021.jpg",
+    "extracted_file": "material-022-polar-fleece.jpg",
+    "width": 544,
+    "height": 816
+  },
+  {
+    "material_id": 23,
+    "name": "Neoprene",
+    "page": 19,
+    "source_image": "fabric-022.jpg",
+    "extracted_file": "material-023-neoprene.jpg",
+    "width": 544,
+    "height": 816
+  },
+  {
+    "material_id": 24,
+    "name": "Ripstop Nylon",
+    "page": 19,
+    "source_image": "fabric-023.jpg",
+    "extracted_file": "material-024-ripstop-nylon.jpg",
+    "width": 544,
+    "height": 816
+  },
+  {
+    "material_id": 25,
+    "name": "Rayon / Viscose",
+    "page": 20,
+    "source_image": "fabric-024.jpg",
+    "extracted_file": "material-025-rayon-viscose.jpg",
+    "width": 544,
+    "height": 816
+  },
+  {
+    "material_id": 26,
+    "name": "Lyocell (Tencel)",
+    "page": 20,
+    "source_image": "fabric-025.jpg",
+    "extracted_file": "material-026-lyocell-tencel.jpg",
+    "width": 544,
+    "height": 816
+  },
+  {
+    "material_id": 27,
+    "name": "Cotton-Poly Blend",
+    "page": 21,
+    "source_image": "fabric-026.jpg",
+    "extracted_file": "material-027-cotton-poly-blend.jpg",
+    "width": 544,
+    "height": 816
+  },
+  {
+    "material_id": 28,
+    "name": "Chiffon",
+    "page": 22,
+    "source_image": "fabric-027.jpg",
+    "extracted_file": "material-028-chiffon.jpg",
+    "width": 544,
+    "height": 816
+  },
+  {
+    "material_id": 29,
+    "name": "Satin",
+    "page": 22,
+    "source_image": "fabric-028.jpg",
+    "extracted_file": "material-029-satin.jpg",
+    "width": 544,
+    "height": 816
+  },
+  {
+    "material_id": 30,
+    "name": "Velvet",
+    "page": 23,
+    "source_image": "fabric-029.jpg",
+    "extracted_file": "material-030-velvet.jpg",
+    "width": 544,
+    "height": 816
+  },
+  {
+    "material_id": 31,
+    "name": "Corduroy",
+    "page": 23,
+    "source_image": "fabric-030.jpg",
+    "extracted_file": "material-031-corduroy.jpg",
+    "width": 544,
+    "height": 816
+  },
+  {
+    "material_id": 32,
+    "name": "Organza",
+    "page": 24,
+    "source_image": "fabric-031.jpg",
+    "extracted_file": "material-032-organza.jpg",
+    "width": 544,
+    "height": 816
+  },
+  {
+    "material_id": 33,
+    "name": "Organic Cotton",
+    "page": 25,
+    "source_image": "fabric-032.jpg",
+    "extracted_file": "material-033-organic-cotton.jpg",
+    "width": 544,
+    "height": 816
+  },
+  {
+    "material_id": 34,
+    "name": "Hemp",
+    "page": 25,
+    "source_image": "fabric-033.jpg",
+    "extracted_file": "material-034-hemp.jpg",
+    "width": 544,
+    "height": 816
+  },
+  {
+    "material_id": 35,
+    "name": "Ramie",
+    "page": 26,
+    "source_image": "fabric-034.jpg",
+    "extracted_file": "material-035-ramie.jpg",
+    "width": 544,
+    "height": 816
+  },
+  {
+    "material_id": 36,
+    "name": "Jute",
+    "page": 26,
+    "source_image": "fabric-035.jpg",
+    "extracted_file": "material-036-jute.jpg",
+    "width": 544,
+    "height": 816
+  },
+  {
+    "material_id": 37,
+    "name": "Seersucker",
+    "page": 27,
+    "source_image": "fabric-036.jpg",
+    "extracted_file": "material-037-seersucker.jpg",
+    "width": 544,
+    "height": 816
+  },
+  {
+    "material_id": 38,
+    "name": "Terry Cloth",
+    "page": 27,
+    "source_image": "fabric-037.jpg",
+    "extracted_file": "material-038-terry-cloth.jpg",
+    "width": 544,
+    "height": 816
+  },
+  {
+    "material_id": 39,
+    "name": "Muslin",
+    "page": 28,
+    "source_image": "fabric-038.jpg",
+    "extracted_file": "material-039-muslin.jpg",
+    "width": 544,
+    "height": 816
+  },
+  {
+    "material_id": 40,
+    "name": "Wool",
+    "page": 28,
+    "source_image": "fabric-039.jpg",
+    "extracted_file": "material-040-wool.jpg",
+    "width": 544,
+    "height": 816
+  },
+  {
+    "material_id": 41,
+    "name": "Merino Wool",
+    "page": 29,
+    "source_image": "fabric-040.jpg",
+    "extracted_file": "material-041-merino-wool.jpg",
+    "width": 544,
+    "height": 816
+  },
+  {
+    "material_id": 42,
+    "name": "Mohair",
+    "page": 29,
+    "source_image": "fabric-041.jpg",
+    "extracted_file": "material-042-mohair.jpg",
+    "width": 544,
+    "height": 816
+  },
+  {
+    "material_id": 43,
+    "name": "Alpaca",
+    "page": 30,
+    "source_image": "fabric-042.jpg",
+    "extracted_file": "material-043-alpaca.jpg",
+    "width": 544,
+    "height": 816
+  },
+  {
+    "material_id": 44,
+    "name": "Angora Rabbit Hair",
+    "page": 30,
+    "source_image": "fabric-043.jpg",
+    "extracted_file": "material-044-angora-rabbit-hair.jpg",
+    "width": 544,
+    "height": 816
+  },
+  {
+    "material_id": 45,
+    "name": "Silk",
+    "page": 31,
+    "source_image": "fabric-044.jpg",
+    "extracted_file": "material-045-silk.jpg",
+    "width": 544,
+    "height": 816
+  },
+  {
+    "material_id": 46,
+    "name": "Shearling",
+    "page": 31,
+    "source_image": "fabric-045.jpg",
+    "extracted_file": "material-046-shearling.jpg",
+    "width": 544,
+    "height": 816
+  },
+  {
+    "material_id": 47,
+    "name": "Leather",
+    "page": 32,
+    "source_image": "fabric-046.jpg",
+    "extracted_file": "material-047-leather.jpg",
+    "width": 544,
+    "height": 816
+  },
+  {
+    "material_id": 48,
+    "name": "Suede",
+    "page": 32,
+    "source_image": "fabric-047.jpg",
+    "extracted_file": "material-048-suede.jpg",
+    "width": 544,
+    "height": 816
+  },
+  {
+    "material_id": 49,
+    "name": "Nubuck",
+    "page": 33,
+    "source_image": "fabric-048.jpg",
+    "extracted_file": "material-049-nubuck.jpg",
+    "width": 544,
+    "height": 816
+  },
+  {
+    "material_id": 50,
+    "name": "Patent Leather",
+    "page": 33,
+    "source_image": "fabric-049.jpg",
+    "extracted_file": "material-050-patent-leather.jpg",
+    "width": 544,
+    "height": 816
+  },
+  {
+    "material_id": 51,
+    "name": "Exotic Reptile Leather",
+    "page": 34,
+    "source_image": "fabric-050.jpg",
+    "extracted_file": "material-051-exotic-reptile-leather.jpg",
+    "width": 544,
+    "height": 816
+  },
+  {
+    "material_id": 52,
+    "name": "Down and Feather",
+    "page": 34,
+    "source_image": "fabric-051.jpg",
+    "extracted_file": "material-052-down-and-feather.jpg",
+    "width": 544,
+    "height": 816
+  },
+  {
+    "material_id": 53,
+    "name": "Modal",
+    "page": 35,
+    "source_image": "fabric-052.jpg",
+    "extracted_file": "material-053-modal.jpg",
+    "width": 544,
+    "height": 816
+  },
+  {
+    "material_id": 54,
+    "name": "Bamboo Viscose",
+    "page": 36,
+    "source_image": "fabric-053.jpg",
+    "extracted_file": "material-054-bamboo-viscose.jpg",
+    "width": 544,
+    "height": 816
+  },
+  {
+    "material_id": 55,
+    "name": "Acetate",
+    "page": 36,
+    "source_image": "fabric-054.jpg",
+    "extracted_file": "material-055-acetate.jpg",
+    "width": 544,
+    "height": 816
+  },
+  {
+    "material_id": 56,
+    "name": "Cupro",
+    "page": 37,
+    "source_image": "fabric-055.jpg",
+    "extracted_file": "material-056-cupro.jpg",
+    "width": 544,
+    "height": 816
+  },
+  {
+    "material_id": 57,
+    "name": "Acrylic",
+    "page": 37,
+    "source_image": "fabric-056.jpg",
+    "extracted_file": "material-057-acrylic.jpg",
+    "width": 544,
+    "height": 816
+  },
+  {
+    "material_id": 58,
+    "name": "Microfiber",
+    "page": 38,
+    "source_image": "fabric-057.jpg",
+    "extracted_file": "material-058-microfiber.jpg",
+    "width": 544,
+    "height": 816
+  },
+  {
+    "material_id": 59,
+    "name": "Vegan Leather",
+    "page": 38,
+    "source_image": "fabric-058.jpg",
+    "extracted_file": "material-059-vegan-leather.jpg",
+    "width": 544,
+    "height": 816
+  },
+  {
+    "material_id": 60,
+    "name": "Faux Fur",
+    "page": 39,
+    "source_image": "fabric-059.jpg",
+    "extracted_file": "material-060-faux-fur.jpg",
+    "width": 544,
+    "height": 816
+  },
+  {
+    "material_id": 61,
+    "name": "Gore-Tex",
+    "page": 39,
+    "source_image": "fabric-060.jpg",
+    "extracted_file": "material-061-gore-tex.jpg",
+    "width": 544,
+    "height": 816
+  },
+  {
+    "material_id": 62,
+    "name": "Ponte",
+    "page": 40,
+    "source_image": "fabric-061.jpg",
+    "extracted_file": "material-062-ponte.jpg",
+    "width": 544,
+    "height": 816
+  },
+  {
+    "material_id": 63,
+    "name": "Waffle Knit",
+    "page": 41,
+    "source_image": "fabric-062.jpg",
+    "extracted_file": "material-063-waffle-knit.jpg",
+    "width": 544,
+    "height": 816
+  },
+  {
+    "material_id": 64,
+    "name": "Cable Knit",
+    "page": 41,
+    "source_image": "fabric-063.jpg",
+    "extracted_file": "material-064-cable-knit.jpg",
+    "width": 544,
+    "height": 816
+  },
+  {
+    "material_id": 65,
+    "name": "Pointelle",
+    "page": 42,
+    "source_image": "fabric-064.jpg",
+    "extracted_file": "material-065-pointelle.jpg",
+    "width": 544,
+    "height": 816
+  },
+  {
+    "material_id": 66,
+    "name": "Georgette",
+    "page": 42,
+    "source_image": "fabric-065.jpg",
+    "extracted_file": "material-066-georgette.jpg",
+    "width": 544,
+    "height": 816
+  },
+  {
+    "material_id": 67,
+    "name": "Crepe",
+    "page": 43,
+    "source_image": "fabric-066.jpg",
+    "extracted_file": "material-067-crepe.jpg",
+    "width": 544,
+    "height": 816
+  },
+  {
+    "material_id": 68,
+    "name": "Velour",
+    "page": 43,
+    "source_image": "fabric-067.jpg",
+    "extracted_file": "material-068-velour.jpg",
+    "width": 544,
+    "height": 816
+  },
+  {
+    "material_id": 69,
+    "name": "Brocade",
+    "page": 44,
+    "source_image": "fabric-068.jpg",
+    "extracted_file": "material-069-brocade.jpg",
+    "width": 544,
+    "height": 816
+  },
+  {
+    "material_id": 70,
+    "name": "Jacquard",
+    "page": 44,
+    "source_image": "fabric-069.jpg",
+    "extracted_file": "material-070-jacquard.jpg",
+    "width": 544,
+    "height": 816
+  },
+  {
+    "material_id": 71,
+    "name": "Lace",
+    "page": 45,
+    "source_image": "fabric-070.jpg",
+    "extracted_file": "material-071-lace.jpg",
+    "width": 544,
+    "height": 816
+  },
+  {
+    "material_id": 72,
+    "name": "Mesh",
+    "page": 45,
+    "source_image": "fabric-071.jpg",
+    "extracted_file": "material-072-mesh.jpg",
+    "width": 544,
+    "height": 816
+  },
+  {
+    "material_id": 73,
+    "name": "Tulle",
+    "page": 46,
+    "source_image": "fabric-072.jpg",
+    "extracted_file": "material-073-tulle.jpg",
+    "width": 544,
+    "height": 816
+  },
+  {
+    "material_id": 74,
+    "name": "Gabardine",
+    "page": 46,
+    "source_image": "fabric-073.jpg",
+    "extracted_file": "material-074-gabardine.jpg",
+    "width": 544,
+    "height": 816
+  }
+]
